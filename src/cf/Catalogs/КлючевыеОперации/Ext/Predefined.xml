@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
+	<Item id="81b4d9fd-d3b9-4671-a1e3-5ffbf26d8130">
+		<Name>ОбщаяПроизводительностьСистемы</Name>
+		<Code/>
+		<Description>Общая производительность системы</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="2baa78ea-ea25-4542-b80b-31b03164b3b7">
+		<Name>ПроведениеДокументаПутевойЛист</Name>
+		<Code/>
+		<Description>Проведение документа путевой лист</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
