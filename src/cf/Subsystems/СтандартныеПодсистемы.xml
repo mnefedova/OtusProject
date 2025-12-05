@@ -11,7 +11,7 @@
 			</Synonym>
 			<Comment/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
-			<IncludeInCommandInterface>true</IncludeInCommandInterface>
+			<IncludeInCommandInterface>false</IncludeInCommandInterface>
 			<UseOneCommand>false</UseOneCommand>
 			<Explanation/>
 			<Picture>
@@ -20,8 +20,6 @@
 			</Picture>
 			<Content/>
 		</Properties>
-		<ChildObjects>
-			<Subsystem>ОценкаПроизводительности</Subsystem>
-		</ChildObjects>
+		<ChildObjects/>
 	</Subsystem>
 </MetaDataObject>

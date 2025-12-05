@@ -231,7 +231,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Subsystem.СтандартныеПодсистемы.Subsystem.ОценкаПроизводительности</name>
+		<name>Subsystem.ОценкаПроизводительности</name>
 		<right>
 			<name>View</name>
 			<value>true</value>

@@ -6,10 +6,4 @@
 		<Description>Общая производительность системы</Description>
 		<IsFolder>false</IsFolder>
 	</Item>
-	<Item id="2baa78ea-ea25-4542-b80b-31b03164b3b7">
-		<Name>ПроведениеДокументаПутевойЛист</Name>
-		<Code/>
-		<Description>Проведение документа путевой лист</Description>
-		<IsFolder>false</IsFolder>
-	</Item>
 </PredefinedData>

@@ -344,6 +344,7 @@
 			<Subsystem>Финансы</Subsystem>
 			<Subsystem>ТоварныеЗапасы</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
+			<Subsystem>ОценкаПроизводительности</Subsystem>
 			<StyleItem>ЦветТекстаСущественныхИзмененийДанных</StyleItem>
 			<StyleItem>ЦветТекстаНормальногоСостояния</StyleItem>
 			<StyleItem>ЦветТекстаОшибочногоСостояния</StyleItem>
